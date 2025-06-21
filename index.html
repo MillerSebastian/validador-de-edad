@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="This is a simple age validator that checks if the entered age is within a specified range.">
+    <meta name="keywords" content="edad edades codigo javascript html css validador edad edad minima edad maxima">
+    <meta name="sitedomain" content="aca coloca el dominio o link de github: https://jcomte23.github.io">
+    <meta name="organization" content="MillerSebastian">
+    <meta name="author" content="Sebastian Emilio Rodelo Garcia">
+    <meta name="designer" content="Sebastian Rodelo">
+    <meta name="copyright" content="© 2025 Sebastian RG. All rights reserved">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="ind -+ex,follow">
+    <meta name="revisit-after" content="15days">
+    <title>Validador de Edad</title>
+    <link rel="stylesheet" href="./src/css/style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
+</head>
+
+<body>
+    <header>
+
+        <h1>Validador de Edad</h1>
+    </header>
+
+    <main>
+        <div class="card">
+            <div class="inputs">
+                <div class="form-group">
+                    <input type="text" id="nombre" placeholder=" " maxlength="50">
+                    <label for="nombre">Nombre completo</label>
+                    <div class="error-message" id="errorNombre"></div>
+                </div>
+
+                <div class="form-group">
+                    <input type="text" id="edad" placeholder=" " maxlength="3">
+                    <label for="edad">Edad</label>
+                    <div class="error-message" id="errorEdad"></div>
+                </div>
+            </div>
+
+            <button onclick="validarDatos()">Verificar Edad</button>
+
+            <div class="respuesta" id="resultado"></div>
+        </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Validador de Edad | Por Sebastian Rodelo Riwi Coder <i class="fas fa-code"></i> | Desarrollado
+            con 💜 y mucho codigo</p>
+    </footer>
+
+    <script src="./src/js/main.js"></script>
+</body>
+
+</html>
