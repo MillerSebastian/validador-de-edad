@@ -238,7 +238,7 @@ Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE](LICENSE) para
 - 🌍 Website: []
 - 🐱 GitHub: [@Miller_Sebastian](https://github.com/TU_USUARIO_GITHUB)
 - 📧 Email: sebastianrodelog@gmail.com
-- 💼 LinkedIn: [[Sebastian Rodelo](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sebastian-rodelo-2a30041b1/))
+- 💼 LinkedIn: [[Sebastian Rodelo](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sebastian-rodelo-2a30041b1/))]
 
 ---
 
