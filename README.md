@@ -36,9 +36,8 @@ Una aplicación web moderna y elegante que permite a los usuarios ingresar su no
 
 ## 🚀 Demo
 
-Visita la demo en vivo: **[TU_DOMINIO_AQUI]**
+Visita la demo en vivo: **[[validator](https://millersebastian.github.io/validador-de-edad/)]**
 
-![Screenshot del Validador de Edad](screenshot.png)
 
 ## 🛠 Tecnologías
 
@@ -235,8 +234,8 @@ Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE](LICENSE) para
 
 **[Sebastian_Rodelo_Riwi_Coder]**
 
-- 🌍 Website: []
-- 🐱 GitHub: [@Miller_Sebastian](https://github.com/TU_USUARIO_GITHUB)
+- 🌍 Website: [https://millersebastian.github.io/validador-de-edad/]
+- 🐱 GitHub: [@Miller_Sebastian](https://github.com/MillerSebastian)
 - 📧 Email: sebastianrodelog@gmail.com
 - 💼 LinkedIn: [[Sebastian Rodelo](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sebastian-rodelo-2a30041b1/))]
 
